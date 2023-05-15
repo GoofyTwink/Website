@@ -1,0 +1,11 @@
+h1 {
+    font-family: serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: "images/home-background.jpg";
+    background-size: auto;
+}
